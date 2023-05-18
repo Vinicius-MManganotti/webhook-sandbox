@@ -18,4 +18,6 @@ media_order: devtools_updated.png
 
 ## O time
 
-O time é composto por....
+O time é composto pelos seguintes membros
+
+![](front-end-platform.png)
