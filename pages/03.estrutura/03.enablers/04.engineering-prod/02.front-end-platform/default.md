@@ -7,6 +7,8 @@ media_order: front-end-platform.png
 
 # Front-end Platform Team
 
+O time é compostos por...
+
 ## Referências
 
 Canal no Slack: [#team-frontend-platform](https://rdstation.slack.com/archives/C0198PW2PBR)
