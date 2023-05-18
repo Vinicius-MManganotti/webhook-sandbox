@@ -20,4 +20,4 @@ media_order: devtools_updated.png
 
 O time é composto pelos seguintes membros
 
-![](front-end-platform-dev.png)
+![](navbar4.png)
